@@ -1,2 +1,0 @@
-Hello, this is a test file content.
-Written at: 2025-06-17T10:33:46.268Z
