@@ -48,6 +48,9 @@ The script will:
 3. Read the contents back
 4. Verify file existence
 
+![image](https://github.com/user-attachments/assets/12281ea1-4390-4f1b-990a-b10a1c7eec24)
+
+
 ## Error Handling
 
 All operations include proper error handling with informative error messages.
